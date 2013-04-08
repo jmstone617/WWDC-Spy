@@ -44,4 +44,7 @@ Making a phone call is just as easy. Again, include your Twilio number and verif
 )
 ```
 
+## Pro Tip:
+If you are using iOS 6+ pn your iOS Device with Do Not Disturb enabled, add your Twilio phone number to your Favorites or allowed contact group to make sure you don't sleep through the WWDC Tickets release!
+
 And that's it! Good luck getting your ticket this year!
